@@ -193,6 +193,3 @@ Possible next steps for this project include:
 ## Author
 Victor Ayomide Adebiyi
 Aspiring Data Analyst
-## Author
-Victor Ayomide Adebiyi
-Aspiring Data Analyst
